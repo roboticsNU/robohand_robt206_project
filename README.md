@@ -24,3 +24,7 @@ You can find docs (presendation and report) in docs/ folder.
 ## Demo
 
 You can find demo on YouTube: https://www.youtube.com/watch?v=pKi1RAyJarI
+
+## Credentials
+
+Done by: Aidarbek Suleimenov, Assiya Khuzyakhmetova, Aishabibi Adambek, Arman Sabyrov, Adilet Tuleuov
