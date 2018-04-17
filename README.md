@@ -2,14 +2,20 @@
 Final project for Microcontrollers with Lab course
 
 ## Installation and Running
-In order to run the code, you need to install the following library to 
-the arduino board: https://github.com/jeroendoggen/Arduino-signal-filtering-library
+<br />In order to run the code, you need to install the following library to 
+<br />the arduino board: https://github.com/jeroendoggen/Arduino-signal-filtering-library
+<br />
 After you installed it, upload src/arduino.ino to the arduino board.
+<br />
 You also need to change your file path inside src/\*.py files to where 
+<br />
 the src/arduino\_data.txt file located
+<br />
 Run src/arduino.py using Python 3.3 with pySerial library installed.
-Upload src/arduino\_blender.py to the Blender model. 
-In Blender, create 2 default objects: Cube and Cone. 
+<br />
+In Blender, create 2 default objects: Cube and Cone.
+<br />
+Run src/arduino\_blender.py inside Blender Python environment. 
 
 ## Docs
 
